@@ -1,0 +1,6 @@
+StudentID,FirstName,LastName,Grade,DOB,Address,City,State,ZipCode
+1,John,Doe,10,2005-03-15,123 Main St,Anytown,CA,12345
+2,Jane,Smith,11,2004-07-22,456 Oak Ave,Sometown,NY,67890
+3,Bob,Johnson,9,2006-01-10,789 Pine St,Othercity,TX,54321
+4,Alice,Williams,12,2003-09-05,101 Elm Rd,Anothercity,FL,98765
+5,Charlie,Brown,8,2007-05-18,202 Maple Blvd,Somewhere,WA,13579
